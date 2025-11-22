@@ -8,7 +8,7 @@
   <h1>👋 Hi, I'm Oshan Nilushka</h1>
   <h3>🚀 Passionate Frontend Developer from Sri Lanka 🇱🇰</h3>
   
-  <img src="https://komarev.com/ghpvc/?username=oshanst&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=OshanNilushka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -66,15 +66,15 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=OshanST&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=OshanNilushka&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshanST&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshanNilushka&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OshanST&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OshanNilushka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -87,7 +87,7 @@
 ## 📈 **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshanST&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshanNilushka&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -105,7 +105,7 @@
   <a href="mailto:oshannilushka27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/OshanST" target="_blank">
+  <a href="https://github.com/OshanNilushka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -128,7 +128,7 @@
 
 <div align="center">
   <small>
-    <strong>Credits:</strong> <a href="https://github.com/OshanST">Oshan Nilushka</a> | 
+    <strong>Credits:</strong> <a href="https://github.com/OshanNilushka">Oshan Nilushka</a> | 
     <strong>Last Updated:</strong> August 2025
   </small>
 </div>
