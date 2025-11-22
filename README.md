@@ -81,16 +81,6 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# 🛠️ Tech Stack & 📄 Latest Blogs
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="Skills_Animation_White.gif">
-  <img align="center" alt="Skills Animation" src="Skills_Animation_White.gif">
-</picture>
-
-
 # 📈 **Activity Graph**
 
 <div align="center">
