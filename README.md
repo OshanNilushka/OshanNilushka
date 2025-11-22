@@ -1,6 +1,7 @@
 <div align="center">
  
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
 </div>
 
 <div align="center">
@@ -118,7 +119,8 @@
 
 <p align="center"><strong>Thanks for visiting my profile! 😊</strong></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ---
 
