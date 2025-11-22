@@ -81,13 +81,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🏆 **GitHub Trophies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OshanST&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 📈 **Activity Graph**
 
